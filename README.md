@@ -4,7 +4,7 @@
 ---
 # Auteur
 
-- [Patricia TOTOUM](mailto:patricia.totoummandoum.etu@univ-lille.fr)
+- Patricia TOTOUM
 
 ---
 # Sujet et délais
@@ -23,12 +23,7 @@ Journal de bord (Semaine) : [1](#semaine-1) [2](#semaine-2) [3](#semaine-3) [4](
 ---
 # Rubrique HowTo
 
-### Récupération des sources du projet
-Depuis votre terminal, veuillez exécuter la commande suivante :
-- `git clone git@gitlab-etu.fil.univ-lille.fr:patricia.totoummandoum.etu/projet_totoum_patricia_coo.git`
-
-
-**Ensuite, Veuillez exécuter les commandes suivantes dans un terminal à partir du dossier racine du projet :**
+**Veuillez exécuter les commandes suivantes dans un terminal à partir du dossier racine du projet :**
 
 ### Compilation des fichiers sources
 - `make classes`
